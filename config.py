@@ -1,0 +1,2 @@
+Token = ""
+ADMIN = 1
